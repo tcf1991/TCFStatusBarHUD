@@ -19,7 +19,7 @@
    [TCFStatusBarHUD hide];
 ... 
 
-## 显示加载信息
+## 显示普通信息
 ...objc
     [TCFStatusBarHUD showMessage:@"一切正常"];
 ...
